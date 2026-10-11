@@ -1,21 +1,21 @@
 {
-  "updated_utc": "2026-10-10T21:51:25+00:00",
-  "total": 19,
+  "updated_utc": "2026-10-11T05:59:04+00:00",
+  "total": 20,
   "by_country": {
     "US": 3,
-    "JP": 1,
-    "FI": 3,
-    "HK": 1,
-    "RU": 5,
-    "RO": 1,
     "FR": 1,
-    "NL": 3,
-    "DE": 1
+    "DE": 3,
+    "FI": 2,
+    "JP": 1,
+    "RO": 1,
+    "RU": 5,
+    "AU": 1,
+    "NL": 3
   },
   "russia_count": 5,
   "sources": {
-    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt": "ok, новых ключей: 76",
-    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt": "ok, новых ключей: 14",
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt": "ok, новых ключей: 97",
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt": "ok, новых ключей: 19",
     "https://gitlab.com/igareck/vpn-configs-for-russia/-/raw/main/BLACK_VLESS_RUS.txt": "ok, новых ключей: 0",
     "https://gitlab.com/igareck/vpn-configs-for-russia/-/raw/main/WHITE-CIDR-RU-all.txt": "ok, новых ключей: 0",
     "https://codeberg.org/igareck/vpn-configs-for-russia/raw/branch/main/BLACK_VLESS_RUS.txt": "ok, новых ключей: 0",
